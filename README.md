@@ -20,5 +20,5 @@
 
 - 컬렉션을 `imports/api/projects.js` 파일에 만들고 이것을 클라언트와 서버에서 임포트한다. 
 
-- 드래 앤 드롭을 구현하기 위해서 `jQuery UI`를 사용했는데, 이것은 Atmosphere의 `linto:jquery-ui` 패키지를 사용하였다.
+- 드래그 앤 드롭을 구현하기 위해서 `jQuery UI`를 사용했는데, 이것은 Atmosphere의 `linto:jquery-ui` 패키지를 사용하였다.
 
